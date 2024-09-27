@@ -61,7 +61,7 @@ function App() {
   return (
     <>
       <div className='flex flex-col items-center justify-center'>
-      <h1>Hadi List</h1>
+      <h1>To-do-List</h1>
       <p>Nombre de la tarea:</p>
       <input className='text-black' type="text" maxLength={20} style={{
           boxSizing: 'border-box',
